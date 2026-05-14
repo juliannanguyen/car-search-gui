@@ -1,2 +1,2 @@
-# car-search-gui
-Car Search Graphical User Interface (CISC 191)
+# CISC 191 (Intermediate Java Programming)
+Car Search Graphical User Interface
